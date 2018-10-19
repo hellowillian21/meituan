@@ -1,26 +1,14 @@
 # vue仿美团
 
-## Project setup
+## 起步
 ```
 yarn install
 ```
-
-### Compiles and hot-reloads for development
 ```
-yarn run serve
+yarn serve
 ```
 
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
+## 实现
+- 首页
+- 电影页
+- 电影详情页
